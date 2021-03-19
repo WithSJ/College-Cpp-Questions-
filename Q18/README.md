@@ -1,0 +1,1 @@
+## 18.Write a C++ Program to input a number from user and perform swapping between even and odd position values. (Example: Input: 4159, Ouput: 1495, Input: 215, Ouput: 125)
